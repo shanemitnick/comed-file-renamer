@@ -2,18 +2,13 @@ import os
 from datetime import datetime
 import re
 
-my_folder_path = "/Users/shanemitnick/Desktop/ComEdToBeRenamed"
+my_folder_path = "INSERT FILE PATH HERE"
 
 '''
 Data Structure :
 String : (String, String)
 "Utility Name" : "Regex to identify file format", "Regex to extract SA number".
 '''
-import os
-from datetime import datetime
-import re
-
-my_folder_path = "/Users/shanemitnick/Desktop/ComEdToBeRenamed"
 
 
 utility_regex = {
