@@ -9,7 +9,7 @@ To use this file, change file path at the top of the script to the proper folder
 The script will rename the file in its place. 
 
 ## Additional File Renaming
-To add more file renaming functionality, simply add a new string pattern regex. In theory, this program could be used to rename any file that has a matching regex.
+To add more file renaming functionality, simply add a new string pattern regex. In theory, this program could be used to rename any file that has a matching regex for the whole file name and one for getting the account number.
 
 <img width="718" alt="image" src="https://user-images.githubusercontent.com/10816901/180277984-3ed445f0-30b9-4670-a948-c01108f6a88d.png">
 
@@ -25,3 +25,5 @@ This file renaming tool, saved the manual process of renaming for interns (and m
 tldr // it saved me (personally) alot of time.
 
 
+### Extra Usage
+With very little touch up, this program could be used to rename any folder of files to a uniform way.
